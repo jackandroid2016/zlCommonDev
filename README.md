@@ -1,5 +1,5 @@
 # zlCommonDev
-
+implementation 'com.github.jackandroid2016:zlCommonDev:Tag'
 Step 1. Add the JitPack repository to your build file
 
 gradle
